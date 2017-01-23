@@ -1,0 +1,33 @@
+body {
+	background:rgb(193,170,180);
+}
+
+h1 {
+	color: black;
+}
+
+#underline {
+	text-decoration: underline;
+}
+  ul {
+      padding: 10px;
+      background:  lightblue;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width:500px;
+      padding: 20px;
+      margin: 0 auto;
+	}
+  img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    header {
+				text-align: center;
+    }
+    
