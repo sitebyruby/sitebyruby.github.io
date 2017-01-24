@@ -35,4 +35,18 @@ color: blue;
     header {
 				text-align: center;
     }
+#atm {
+text-decoration: underline;
+color: blue;
+}
+
+#future {
+text-decoration: underline;
+color: blue;
+}
+
+#bonus {
+text-decoration: underline;
+color: blue;
+}
     
