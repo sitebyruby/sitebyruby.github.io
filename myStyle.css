@@ -9,6 +9,11 @@ h1 {
 #underline {
 	text-decoration: underline;
 }
+
+#home {
+text-decoration: underline;
+color: purple;
+}
   ul {
       padding: 10px;
       background:  lightblue;
